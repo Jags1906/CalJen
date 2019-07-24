@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-decoration: #fb8ebb underline double;
+}
+
+.sp1{
+    color: #0eb3eb;
+}
+
+.sp2 {
+    color: #f02378;
+}
+
+.table-sp1 {
+    background-color: #0eb4eb63;
+    color: white;
+}
+
+.table-sp2 {
+    background-color: #f0237863;
+    color: white;
+}

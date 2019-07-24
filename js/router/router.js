@@ -1,4 +1,4 @@
-page('/', index)
+page('/CalJen', index)
 page('/precios', precios)
 page('*', nf)
 page()
